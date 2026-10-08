@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: MultiXscale Zenodo Dem
+version: 0.0.1
+license: GPL-3.0-only
+type: software
+abstract: Demo repository for Zenodo's GitHub integration
+message: If you use this record, please cite it as below.
+authors:
+- given-names: John
+  family-names: Nada
+  affiliation: USC
+- given-names: Holly
+  family-names: Thompson
+  affiliation: UC Berkeley
+- given-names: Frank
+  family-names: Armitage
+  affiliation: UCLA
+keywords:
+- sunglasses
+- carpenter
+url: "https://github.com/Neves-P/multixscale-zenodo-demo"

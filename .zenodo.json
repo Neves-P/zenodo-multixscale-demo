@@ -1,0 +1,26 @@
+{
+  "title": "MultiXscale Zenodo Demo",
+  "upload_type": "software",
+  "description": "This software tests Zenodo's GitHub integration for MultiXscale",
+  "creators": [
+    {
+      "name": "Nada, John",
+      "affiliation": "USC"
+    },
+    {
+      "name": "Thompson, Holly",
+      "affiliation": "UC Berkeley"
+    },
+    {
+      "name": "Armitage, Frank",
+      "affiliation": "UCLA"
+    }
+  ],
+    "keywords": [
+      "sunglasses",
+      "carpenter"
+    ],
+  "access_right": "open",
+  "license": "GPL-3.0-only",
+  "language": "eng"
+}
